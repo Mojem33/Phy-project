@@ -22,7 +22,7 @@ high_score = 0
 
 wn = turtle.Screen()
 
-wn.title("Snake Game by @olowarstudios")
+wn.title("Snake Game")
 
 wn.bgcolor("black")
 
