@@ -11,12 +11,6 @@ body{
     align-items: center;
     background-image: url("./phy-project/sneaky/BACKGROUND1.png");
 }
-#canvas1{
-    background-color: #013220;
-    width:800px;
-    height:500px;
-    border:2px black;
-}
 .box{
     border: 2px solid black;
     width: 800px;
