@@ -24,7 +24,7 @@ wn = turtle.Screen()
 
 wn.title("Snake Game ")
 
-wn.bgcolor("BACKGROUND1.png")
+wn.bgcolor("#013220")
 
 wn.setup(width=600, height=600)
 
