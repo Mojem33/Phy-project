@@ -9,7 +9,6 @@ body{
     display:flex;
     justify-content: center;
     align-items: center;
-    background-image: url("./phy-project/sneaky/BACKGROUND1.png");
 }
 .box{
     border: 2px solid black;
