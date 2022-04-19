@@ -10,5 +10,9 @@ Next file we need to create is style.css which is the content and placement dire
 
 This file has been created for the phy-project 
 Sneaky Snaky
+The game is one of the simple, old game which every kid at the beggining of technology liked. To score you need to feed the snake each time it's catch the square it scors , hitting the barriers deletes it's score and star a new game.
+If the game doesn't deploy properly please download the game , itself it works properly.
+I wish you would enjoy it no matter what.
+https://mojem33.github.io/Phy-project/
 
 
