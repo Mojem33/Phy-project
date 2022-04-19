@@ -16,6 +16,16 @@ body{
     height:500px;
     border:2px black;
 }
+.box{
+    border: 2px solid black;
+    width: 800px;
+    height: 600px;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-image: url("BACKGROUND1.png");
+    overflow:hidden;
 button{
     position:absolute;
     button:15px;
