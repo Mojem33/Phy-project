@@ -13,6 +13,8 @@ Sneaky Snaky
 The game is one of the simple, old game which every kid at the beggining of technology liked. To score you need to feed the snake each time it's catch the square it scors , hitting the barriers deletes it's score and star a new game.
 If the game doesn't deploy properly please download the game , itself it works properly.
 I wish you would enjoy it no matter what.
+This game is a Demo game  which will take you back in time. Playing it is fun.
+To control the movement you need to use a keyboard keys such as W - to move up S to move down A to move to the left D to move to the right.
 https://mojem33.github.io/Phy-project/
 
 
