@@ -1,0 +1,12 @@
+body{
+    width:100vw;
+    height:100vw;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-image:url(snakey.png) ;
+}
+#canvas1{
+    width:800px;
+    height:500px;
+    border:2px black;
